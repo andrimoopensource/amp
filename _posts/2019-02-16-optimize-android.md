@@ -2,6 +2,7 @@
 layout: post
 title: How to Optimize Android for Better Performance
 ---
+<link rel="canonical" href="https://www.andrimo.com/optimize-android/" />
 
 Android devices are designed to perform numerous tasks seamlessly. These smartphone devices are not limited to make & receive calls, but you can use these powerful machines to perform abundant tasks in an effortless manner. These devices also work as a powerful storage device where you can store all your valuable data in a secure manner. While these devices work smoothly in the beginning, it starts showing performance issues over time due to extensive usage. To deal with this problem, here, we have discussed a few simple yet effective ways to help you optimize your Android device for better performance. 
 
