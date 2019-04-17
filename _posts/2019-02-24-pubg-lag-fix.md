@@ -31,6 +31,4 @@ The Fifth Tips i have for you is if your device is low FPS then i prefer you to 
 
 ## Conclusion
 
-<amp-youtube data-videoid="t6N7LvOL590" layout="responsive" width="480" height="270"></amp-youtube>
-
 If you apply all four tips in your android device then your pubg is running smoothly. So the next pro of PUBG mobile is you.
