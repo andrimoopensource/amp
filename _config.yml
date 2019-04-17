@@ -10,7 +10,7 @@ title: Andrimo
 email: team@andrimo.com
 description: >
   All About Android
-logo: ""
+logo: "https://www.rahulit.com/wp-content/uploads/2018/12/Copy-of-Untitled-1.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://m.andrimo.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
