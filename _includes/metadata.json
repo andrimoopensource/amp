@@ -24,7 +24,7 @@
   "image": {
     "@type": "ImageObject",
     "url": "{{ site.logo | prepend: site.baseurl | prepend: site.url }}",
-    "height": "60",
+    "height": "600",
     "width": "60"
   }
 }
